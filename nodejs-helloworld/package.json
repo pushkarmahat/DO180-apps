@@ -7,5 +7,9 @@
   "license": "ASL",
   "dependencies": {
     "express": "~4.14.x"
-  }
+  },
+  "description": "Hello World!",
+  "main": "app.js",
+  "scripts": { "start": "node app.js" },
+  "author": "Red{nbsp}Hat Training",
 }
